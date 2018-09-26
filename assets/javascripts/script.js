@@ -1,3 +1,4 @@
 $(function() {
-	$('.draggable').draggable();
+	$('.sortable').sortable();
+	$( '.sortable' ).disableSelection();
 });
