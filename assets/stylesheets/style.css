@@ -1,0 +1,33 @@
+body {
+	text-align: center;
+	background-color: rgb(200,0,200);
+	color: rgb(255,255,255);
+}
+ol {
+	width: 200px;
+}
+li {
+	margin-top: 10px;
+	text-align: left;
+}
+.bordered {
+	border-style: solid;
+	border-width: 5px;
+	border-color: white;
+
+}
+a {
+	color: white;
+}
+a:hover{
+	background-color: black;
+}
+h1 {
+	color: black;
+	
+}
+h1:hover {
+	color: white;
+	background-color: black;
+
+}
