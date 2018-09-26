@@ -11,10 +11,12 @@ ul {
 	font-size: 20px;
 	margin-top: 5%;
 	text-align: center;
+	width: 25%;
 }
 .li_hover {
 	font-size: 30px;
 	color: purple;
+	width: 40%;
 }
 .bordered {
 	border-style: solid;
