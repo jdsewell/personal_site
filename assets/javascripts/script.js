@@ -2,6 +2,6 @@ $(function() {
 	$('.sortable').sortable();
 	$('.sortable').disableSelection();
 });
-$('li').hover(function() {
-  $(this).toggleClass("li_hover", 200);
+$('.first_list').hover(function() {
+  $(this).toggleClass("li_hover", 100);
   });

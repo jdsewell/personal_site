@@ -4,10 +4,10 @@ body {
 	color: rgb(255,255,255);
 }
 ul {
-	width: 60%;
+	width: 100%;
 	list-style: none;
 }
-li {
+.first_list {
 	font-size: 20px;
 	margin-top: 5%;
 	text-align: center;
@@ -48,4 +48,7 @@ h1:hover {
 	margin-right: 15%;
 	color: black;
 	background-color: rgb(200,200,255);
+}
+li {
+	font-size: 8px;
 }
