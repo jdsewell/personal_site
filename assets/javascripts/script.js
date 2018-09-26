@@ -3,5 +3,5 @@ $(function() {
 	$('.sortable').disableSelection();
 });
 $('li').hover(function() {
-  $(this).toggleClass("li_hover");
+  $(this).toggleClass("li_hover", 200);
   });
