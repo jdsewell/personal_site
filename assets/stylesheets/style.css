@@ -1,6 +1,6 @@
 body {
 	text-align: center;
-	background-color: rgb(200,0,200);
+	background-color: rgb(80,80,255);
 	color: rgb(255,255,255);
 }
 ul {
@@ -11,6 +11,9 @@ li {
 	font-size: 20px;
 	margin-top: 5%;
 	text-align: left;
+}
+.li_hover {
+	font-size: 30px;
 }
 .bordered {
 	border-style: solid;
@@ -23,6 +26,11 @@ a {
 }
 a:hover{
 	background-color: black;
+	color: white;
+}
+#h1container {
+	margin-left: 35%;
+	margin-right: 35%;
 }
 h1 {
 	color: black;
@@ -34,6 +42,7 @@ h1:hover {
 
 }
 .jumbotron {
+	margin-top: 2%;
 	margin-left: 15%;
 	margin-right: 15%;
 	color: black;
